@@ -9,5 +9,5 @@ random;
 let mod = 3 - (2 % 2) + (2 / 2 ** 2) * 2;
 mod;
 
-let max = Math.max(1, 2, 3, 5, 6);
+let max = Math.max(1, 2, 3, 5, 20);
 max;
